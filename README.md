@@ -4,5 +4,3 @@ GUI based L-System implementation takes the core concepts of L-Systems and the t
 
 A simple but effective software (that can be deployed on the web and desktop) that uses Unity Engine’s technology to implement and display L-Systems and can be modified using a handy GUI.
 This method and software can be used to simulate and produce branching tree structures using L-Systems.
-
-<iframe src="https://player.vimeo.com/video/651334166" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
